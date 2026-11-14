@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "9.7.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v9.7.0/MetinTuslari_NEXUS_v9_7_0_Setup.exe",
-  "sha256": "1e943cf496f6d6327bfdf0cf977840326ba70258f14453af4c980ce222f353c3",
-  "size": 37394718,
-  "notes": "NEXUS v9.7.0: Akilli Metin Sablonlari ve Hizli Notlar; arama, sabitleme, panodan al, kopyala.",
-  "signature": "BBwF9dJMLYoJgycRJG8v7d5zf0SPIJhml4yQnufuaP/NkFy2P0v7dqAKHaeTr0l38muOjVoF33/WIKEUS6qhDg=="
+  "version": "9.8.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v9.8.0/MetinTuslari_NEXUS_v9_8_0_Setup.exe",
+  "sha256": "1bc08cace10ade99c2a4779de5681361828fee5ae04bc4e8e14027bf98f5604a",
+  "size": 37398659,
+  "notes": "NEXUS v9.8.0: Makro calisma hizi (0.5-2x), mini tek tus sifirlama, pano sabitli kayit korumasi.",
+  "signature": "eNYALNuU9cT19xyPa/E4jZ8m0pPczKojsOKjVOHFS/tYO0tBpqb0ErqpYSQAe31YjTTPwiK209tmwX6OFACEBw=="
 }
