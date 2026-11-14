@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.1.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.1.0/MetinTuslari_NEXUS_v10_1_0_Setup.exe",
-  "sha256": "d05d5b0a6ea38cf420304548e5ab1fe44e97473cdd836e31cd667d02f3242042",
-  "size": 37416723,
-  "notes": "NEXUS v10.1.0: Mini ORBIT cizim duzeltmesi, pano sabitli silme onayi, makro hiz analizi; cift tik korunur.",
-  "signature": "Jfxqc7UxBiIsT/c85alQAiv2A5/cVedAHgKbjFNC6Y+h/ugzEnzRfuRmkL1JKlokPToTWuV4m30OmKw0kJpCDQ=="
+  "version": "10.2.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.2.0/MetinTuslari_NEXUS_v10_2_0_Setup.exe",
+  "sha256": "a0743fed364abb08557d6cebbb07474b7f4dd3c73a7cb92ec153a6dc2fbe2207",
+  "size": 37428732,
+  "notes": "NEXUS v10.2.0: Gorsel Tus Editoru ve ORBIT Deck surukle-birak, geri al/yinele; cift tik ve kayitlar korunur.",
+  "signature": "aQnTmCK7LqtjPbGPPAcYqVcD9sbh6gKWY3oPH+hlEaY31mSQjuxKfoGKa5K8+bjzSlU0mS7DVED6xzXihyBpCA=="
 }
