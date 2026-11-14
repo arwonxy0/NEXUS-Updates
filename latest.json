@@ -1,0 +1,9 @@
+{
+  "product": "metin-tuslari-nexus",
+  "version": "9.4.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v9.4.0/MetinTuslari_NEXUS_v9_4_0_Setup.exe",
+  "sha256": "a6c4b383596f48ac9b58c15f3c532775573cbb448bb132e09254ad6fb3f3b9dd",
+  "size": 37358107,
+  "notes": "NEXUS v9.4.0: GitHub icinden ilk imzali guncelleme, 404 mesaji iyilestirmesi, paketleme testi.",
+  "signature": "LY6EwDvV01jPiaHcabj+goxvwRCsRL7i5z82zfag4KuELlBA6Lxej1Gf4aEpVfD6d19oWyk0Dqosw4yMzSftDQ=="
+}
