@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "9.9.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v9.9.0/MetinTuslari_NEXUS_v9_9_0_Setup.exe",
-  "sha256": "7a31385132cc8bd0626814e9beb495534b21dda02a85a756a180c642378143e5",
-  "size": 37408079,
-  "notes": "NEXUS v9.9.0: Mini ORBIT, tek tikla secim ve cift tikla komut calistirma.",
-  "signature": "2AIVoKA32mKkx0pw6ZCaYeU/jsQKyixK3KQdvZLn0ytpf2VxF6eZ4GraMHGk029n2B8R4p97Ge2qZQYNCB2sCA=="
+  "version": "10.0.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.0.0/MetinTuslari_NEXUS_v10_0_0_Setup.exe",
+  "sha256": "bed36c1d7c32f1953928b8defd8d0981d8df65cc6a9f1e11d411b275869af739",
+  "size": 37406311,
+  "notes": "NEXUS v10.0.0: Mini ORBIT Pro UI, ayarlanabilir cap/yazi, hover, animasyon, konum kaydi; guvenli cift tik.",
+  "signature": "K7ZukFfZpqAq9u785ygkiLdoeOnPT+QSG7dd4RK+j71X5jvkrBUMl5sylzeK7V3cAHbbQ3hxExJ0nV3Y5y53BQ=="
 }
