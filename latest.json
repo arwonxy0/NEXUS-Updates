@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.2.1",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.2.1/MetinTuslari_NEXUS_v10_2_1_Setup.exe",
-  "sha256": "b16d538904bff37b1d8eccc387a0829bae36531af7243c9118ef4e3c7d8ed5fe",
-  "size": 37435677,
-  "notes": "NEXUS v10.2.1: ORBIT PNG/JPG/WEBP yerel gorsel ve mini klavye gorsel editoru duzen duzeltmesi; eski kayitlar korunur.",
-  "signature": "Znmof4aNkl/FSOTqvlNhEsKAgZ51xhdCXARbaa17+rQ8Utsd1Gi1c7TyWqdCr4yKC2NIoQRRRqBRvbU9x+S5AQ=="
+  "version": "10.2.2",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.2.2/MetinTuslari_NEXUS_v10_2_2_Setup.exe",
+  "sha256": "16fc2d19a04d1e951b67bc622b6c52e0ebe21c887ed938269ed57a5a6c0b1f3d",
+  "size": 37439578,
+  "notes": "NEXUS v10.2.2: Mini klavye editor kapanisindan sonra satirlar hizalanir ve normal pencere boyutu korunur; eski kayitlar korunur.",
+  "signature": "jPlTQ4fMOHqg0AxQNXS/Z2EO3hRcg9QLC3v2CKtM9C1cQOLy/ZQ4+t9ueY83XFNA9JWlQOZwadcDl3qTQM9DBA=="
 }
