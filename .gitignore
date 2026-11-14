@@ -1,0 +1,22 @@
+# Signing keys / credentials NEVER belong in this public release repository
+private.pem
+**/private.pem
+*.pfx
+*.p12
+*.key
+.env
+.env.*
+secrets/
+NEXUS_YAYINCI_GIZLI/
+NEXUS_Imza_Anahtarlari/
+
+# User data / runtime artifacts
+nexus_state.json
+*.log
+*.bak
+*backup*.zip
+*Yedek*.zip
+__pycache__/
+*.pyc
+build/
+dist/
