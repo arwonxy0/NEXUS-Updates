@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.2.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.2.0/MetinTuslari_NEXUS_v10_2_0_Setup.exe",
-  "sha256": "a0743fed364abb08557d6cebbb07474b7f4dd3c73a7cb92ec153a6dc2fbe2207",
-  "size": 37428732,
-  "notes": "NEXUS v10.2.0: Gorsel Tus Editoru ve ORBIT Deck surukle-birak, geri al/yinele; cift tik ve kayitlar korunur.",
-  "signature": "aQnTmCK7LqtjPbGPPAcYqVcD9sbh6gKWY3oPH+hlEaY31mSQjuxKfoGKa5K8+bjzSlU0mS7DVED6xzXihyBpCA=="
+  "version": "10.2.1",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.2.1/MetinTuslari_NEXUS_v10_2_1_Setup.exe",
+  "sha256": "b16d538904bff37b1d8eccc387a0829bae36531af7243c9118ef4e3c7d8ed5fe",
+  "size": 37435677,
+  "notes": "NEXUS v10.2.1: ORBIT PNG/JPG/WEBP yerel gorsel ve mini klavye gorsel editoru duzen duzeltmesi; eski kayitlar korunur.",
+  "signature": "Znmof4aNkl/FSOTqvlNhEsKAgZ51xhdCXARbaa17+rQ8Utsd1Gi1c7TyWqdCr4yKC2NIoQRRRqBRvbU9x+S5AQ=="
 }
