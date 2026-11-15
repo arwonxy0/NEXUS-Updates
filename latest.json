@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.7.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.7.0/MetinTuslari_NEXUS_v10_7_0_Setup.exe",
-  "sha256": "1c0942f3c5d927c79cdb46964ca74d9cba04462face5f559d21e5342cf8b0474",
-  "size": 37482486,
-  "notes": "NEXUS v10.7.0: Otomatik Profil Sistemi 2.0; manuel kilit, kural onceligi, guvenli uygulama eslesmesi ve geri donus.",
-  "signature": "jLHuFWCzxgK4g5WwVBBAouU+5ZagEmBZEp3IqaGJZuaqbX37ZKiwDVqkkMgtIq40+P/ECawWPLzt/NZYcvw/CA=="
+  "version": "10.8.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.8.0/MetinTuslari_NEXUS_v10_8_0_Setup.exe",
+  "sha256": "36553d6049c2e79741a43314ba55c59cb7d0bbee9daf832b6d554ad6049dde71",
+  "size": 37495774,
+  "notes": "NEXUS v10.8.0: Profil bazli Mini Klavye ve ORBIT; guvenli ayri duzenler ve otomatik gecerken yenileme.",
+  "signature": "Vdm3z4mJEaZsTMn35nC3b5Mazn/vlqCg4MYRXJoZmedMJukwMPDPh0vjhRdt6qrA7vz55K1qvejDGm24zO2kCg=="
 }
