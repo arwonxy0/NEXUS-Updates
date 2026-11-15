@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.3.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.3.0/MetinTuslari_NEXUS_v10_3_0_Setup.exe",
-  "sha256": "41dacd46ebb0f588523697fa5e9bcf9c51cecf416ac3fc070ab94af90a423914",
-  "size": 37437249,
-  "notes": "NEXUS v10.3.0: ORBIT tema studyosu, 5 stil, 0-4 derece yuva araligi, halka kalinligi; Mini ORBIT ile tutarli gorunum.",
-  "signature": "IYaLRaqLJ3EdgP0Mvy58dsGHG+R61CEWJjFdZpKTWT5Ng7FShrXZ6nmeSF2+gqbDL3ipTOlyp8sitXTbu7aBCg=="
+  "version": "10.4.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.4.0/MetinTuslari_NEXUS_v10_4_0_Setup.exe",
+  "sha256": "e3d8d20bc482103cf32fd3d0025bda83b332fda386a610d26fb0cbd60e7ec29c",
+  "size": 37453640,
+  "notes": "NEXUS v10.4.0: iki halkali ORBIT; bagimsiz komutlar, simgeler, resimler ve baglantilar; Mini ORBIT tek tik sec, cift tik calistir.",
+  "signature": "A1UtXGjBN6Bc2ATXn2iWrjyap6lhyg9g03HOm/Oydapiw6gyStDNzsoLr8nqQ7XdWCZvoA+98MUBXQ7/wjLnDg=="
 }
