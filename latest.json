@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.4.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.4.0/MetinTuslari_NEXUS_v10_4_0_Setup.exe",
-  "sha256": "e3d8d20bc482103cf32fd3d0025bda83b332fda386a610d26fb0cbd60e7ec29c",
-  "size": 37453640,
-  "notes": "NEXUS v10.4.0: iki halkali ORBIT; bagimsiz komutlar, simgeler, resimler ve baglantilar; Mini ORBIT tek tik sec, cift tik calistir.",
-  "signature": "A1UtXGjBN6Bc2ATXn2iWrjyap6lhyg9g03HOm/Oydapiw6gyStDNzsoLr8nqQ7XdWCZvoA+98MUBXQ7/wjLnDg=="
+  "version": "10.5.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.5.0/MetinTuslari_NEXUS_v10_5_0_Setup.exe",
+  "sha256": "eca003ecc3f1b4493e5e5b8fc56ace027a37e6815bd71d3b051eff93abe08c70",
+  "size": 37462385,
+  "notes": "NEXUS v10.5.0: Gorsel Makro Studyosu 2.0; blok secimi, surukle-birak adim siralama ve guvenli calistirmadan once onizleme.",
+  "signature": "+QPaw03UeW3kLYjIl43runOAh48qfaEjcEop9dcK6IPs/tAtKAhKy/zcRiOZpUJ7+dVcFUGWcvQj6XnM8WxUAw=="
 }
