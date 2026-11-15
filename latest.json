@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.9.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.9.0/MetinTuslari_NEXUS_v10_9_0_Setup.exe",
-  "sha256": "617bbe75664771643290d83744a7cc8cd4957dc3f42e164fce43d3bdffdaa4cd",
-  "size": 37494821,
-  "notes": "NEXUS v10.9.0: Pano etiketleri, tarih filtreleri ve sayfali liste.",
-  "signature": "hUF+4dMGKRAB2BWaQ14PUfcb2MWbnpOZsKrZ0LJctgNZw0V8OH7PAHJZHlQdUuC7oE7EI9uzzMEyXXN9EZ9ABA=="
+  "version": "11.0.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.0.0/MetinTuslari_NEXUS_v11_0_0_Setup.exe",
+  "sha256": "2988f784bd1ac875366083c5ef5ab4ed604cff66e4b51975231061e8c792c512",
+  "size": 37517065,
+  "notes": "NEXUS v11.0.0: Birlesik Kontrol Merkezi; Mini Klavye, ORBIT, Pano ve Notlar.",
+  "signature": "BHqlIGozoLT1RlPufA/Yn6OYF3lIew8sIgUziuaZhO45nIY2+2FKxbKGvNJaLn12wmcPdKFE9tE+5ZxNdEc4BQ=="
 }
