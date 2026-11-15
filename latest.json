@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "10.6.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.6.0/MetinTuslari_NEXUS_v10_6_0_Setup.exe",
-  "sha256": "18611cc6131e709ffc837940742a9b74171f866a00282b99c5b9fa325530fe99",
-  "size": 37483203,
-  "notes": "NEXUS v10.6.0: Akilli Makro Studyosu 3.0; yerel degiskenler, ileri yonlu kosul dallari, sinirli donguler ve onizleme.",
-  "signature": "8+IeoC+/Boggr+OdwSWQ1448ZdBehLfPjrcoOtiJv/WJp9gdOx7QfXqOYDsBePB5/qJGpM40HKZmoM2WqrBgAQ=="
+  "version": "10.7.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v10.7.0/MetinTuslari_NEXUS_v10_7_0_Setup.exe",
+  "sha256": "1c0942f3c5d927c79cdb46964ca74d9cba04462face5f559d21e5342cf8b0474",
+  "size": 37482486,
+  "notes": "NEXUS v10.7.0: Otomatik Profil Sistemi 2.0; manuel kilit, kural onceligi, guvenli uygulama eslesmesi ve geri donus.",
+  "signature": "jLHuFWCzxgK4g5WwVBBAouU+5ZagEmBZEp3IqaGJZuaqbX37ZKiwDVqkkMgtIq40+P/ECawWPLzt/NZYcvw/CA=="
 }
