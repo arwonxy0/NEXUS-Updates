@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.4.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.4.0/MetinTuslari_NEXUS_v11_4_0_Setup.exe",
-  "sha256": "4068ffb617a622d9406b30012d62ef5216af2236190808c9b534ca0cb9b9413b",
-  "size": 37570495,
-  "notes": "NEXUS v11.4.0: Dort premium tema, kompakt kontrol merkezi, kayitli panel duzenleri.",
-  "signature": "si691Yvb8UkzMt6v4m1WP0fwipQ87NQTlhz1E0W4j4GSLpqqZUAtLalw3OckoEwVY3GuKAvbye+xOVB+/QBbAA=="
+  "version": "11.5.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.5.0/MetinTuslari_NEXUS_v11_5_0_Setup.exe",
+  "sha256": "b8902d8514bcad6981548bf365c6a9d0476509b4c0f2e4f705e85ccff56abbbd",
+  "size": 37580195,
+  "notes": "NEXUS v11.5.0: Ozellestirilebilir panel basliklari, pano kartlari, hizli gorunum ve performans.",
+  "signature": "WHcC3kJsn3Bvj4HbJWpKHGuhxXFT0fKuJifeSn3ZjLJbf0ckzq9UzKF3m/v4MwwegymR+J9N0lGo7AO/0dksDw=="
 }
