@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.9.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.9.0/MetinTuslari_NEXUS_v11_9_0_Setup.exe",
-  "sha256": "c1e8340efe36345b7a9ce46596acf022516de64a92fd74b008c3dc4304ad38fe",
-  "size": 37611322,
-  "notes": "NEXUS 11.9: Stream Deck Pro; sayfalar, klasorler, simgeler, surukle-birak ve guvenli komut baglantilari.",
-  "signature": "vZdGT4kPTU+A2UXOe6BrGudRlfhhTqmjUog6ys8Y2il31t+ES4Rk27f/pLUxW98WsEYeJzMc5jP//vudrKz+AQ=="
+  "version": "12.0.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v12.0.0/MetinTuslari_NEXUS_v12_0_0_Setup.exe",
+  "sha256": "40251060705cd1a9950b6d43976f15001764df6044849db0e56184a1ebcefbf3",
+  "size": 37613223,
+  "notes": "NEXUS 12.0: ORBIT 3.0 uygulamaya bagli carklar, mini fare tekerlegi gecisi, guvenli onizleme.",
+  "signature": "zX6krFGFjAIYaa3yZjZ/qQgUUiR1XWLtlnGUtlCgNDv+UU2CIkzbFsdcS2nY9yqf23Sw5XNt6bTXLb+3zZ6gCA=="
 }
