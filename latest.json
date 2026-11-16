@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.2.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.2.0/MetinTuslari_NEXUS_v11_2_0_Setup.exe",
-  "sha256": "edcf352718422bbaf11163250a000bcce2b6f65397a1f1af1a5fe82a21349229",
-  "size": 37553637,
-  "notes": "NEXUS v11.2.0: Tam ZIP yedekleme, SHA-256 dogrulama, pano gizlilik secenegi ve kurtarma onceki yedegi.",
-  "signature": "caF2eVTEMYqeeZ1HKWKXBnLL3ao1FyZ/EGNfbsreuaOWwU3ANfhAdaDKcokxPyYKvS9AG8xeYFkC3FZHTS4jBg=="
+  "version": "11.3.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.3.0/MetinTuslari_NEXUS_v11_3_0_Setup.exe",
+  "sha256": "ff4d62ac594dba3ef01cbef354da733f7eaeaedb96b03344c6319e36b938f78f",
+  "size": 37562903,
+  "notes": "NEXUS v11.3.0: Yerlesim paneli, surukle birak docklar, kaydedilebilir kontrol merkezi duzenleri.",
+  "signature": "S0K0MdVL6EFHSG5kGYyG3InHJzIIsWXCuWCdLwUoczvpsuVJYmLKRTZpg/isaDfqZu/EaWy2sziGgfG3H9D+CA=="
 }
