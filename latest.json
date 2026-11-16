@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.5.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.5.0/MetinTuslari_NEXUS_v11_5_0_Setup.exe",
-  "sha256": "b8902d8514bcad6981548bf365c6a9d0476509b4c0f2e4f705e85ccff56abbbd",
-  "size": 37580195,
-  "notes": "NEXUS v11.5.0: Ozellestirilebilir panel basliklari, pano kartlari, hizli gorunum ve performans.",
-  "signature": "WHcC3kJsn3Bvj4HbJWpKHGuhxXFT0fKuJifeSn3ZjLJbf0ckzq9UzKF3m/v4MwwegymR+J9N0lGo7AO/0dksDw=="
+  "version": "11.7.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.7.0/MetinTuslari_NEXUS_v11_7_0_Setup.exe",
+  "sha256": "296c9d92b99ac3bed30365f1573eff8e68520551b15084cb004539933e6c57ab",
+  "size": 37586037,
+  "notes": "NEXUS 11.7: Pano akilli gorunumler ve tam kelime arama; ORBIT komut etiketi arama; makro guvenlik ozeti.",
+  "signature": "PB/zmrmMEoK3a+igrZ4FkKmrFgFtse2ifgc8zpLVoyqrc/MzqrLCQpnT5GV3efh8zzj4GeOjD0CTwCGbLZ1pDQ=="
 }
