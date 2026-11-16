@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.3.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.3.0/MetinTuslari_NEXUS_v11_3_0_Setup.exe",
-  "sha256": "ff4d62ac594dba3ef01cbef354da733f7eaeaedb96b03344c6319e36b938f78f",
-  "size": 37562903,
-  "notes": "NEXUS v11.3.0: Yerlesim paneli, surukle birak docklar, kaydedilebilir kontrol merkezi duzenleri.",
-  "signature": "S0K0MdVL6EFHSG5kGYyG3InHJzIIsWXCuWCdLwUoczvpsuVJYmLKRTZpg/isaDfqZu/EaWy2sziGgfG3H9D+CA=="
+  "version": "11.4.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.4.0/MetinTuslari_NEXUS_v11_4_0_Setup.exe",
+  "sha256": "4068ffb617a622d9406b30012d62ef5216af2236190808c9b534ca0cb9b9413b",
+  "size": 37570495,
+  "notes": "NEXUS v11.4.0: Dort premium tema, kompakt kontrol merkezi, kayitli panel duzenleri.",
+  "signature": "si691Yvb8UkzMt6v4m1WP0fwipQ87NQTlhz1E0W4j4GSLpqqZUAtLalw3OckoEwVY3GuKAvbye+xOVB+/QBbAA=="
 }
