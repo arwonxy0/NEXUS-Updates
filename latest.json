@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "11.0.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.0.0/MetinTuslari_NEXUS_v11_0_0_Setup.exe",
-  "sha256": "2988f784bd1ac875366083c5ef5ab4ed604cff66e4b51975231061e8c792c512",
-  "size": 37517065,
-  "notes": "NEXUS v11.0.0: Birlesik Kontrol Merkezi; Mini Klavye, ORBIT, Pano ve Notlar.",
-  "signature": "BHqlIGozoLT1RlPufA/Yn6OYF3lIew8sIgUziuaZhO45nIY2+2FKxbKGvNJaLn12wmcPdKFE9tE+5ZxNdEc4BQ=="
+  "version": "11.1.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v11.1.0/MetinTuslari_NEXUS_v11_1_0_Setup.exe",
+  "sha256": "7778a89ab48e6d5ca35091f4d6537de1e7c06ad527f484440bb70282a46ebd4a",
+  "size": 37533690,
+  "notes": "NEXUS v11.1.0: Yerel ve izinli kullanim istatistikleri; gunluk grafikler, makro sureleri, performans merkezi.",
+  "signature": "wxyakTs9IAt/6FdU5939z3VP6hI6lbazjU/SrecyIi5xc64xo6h0avcJB8xnWX9ksFwDW56GTH9tJAu3ZihqDA=="
 }
