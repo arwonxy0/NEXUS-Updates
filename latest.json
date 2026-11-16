@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "12.0.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v12.0.0/MetinTuslari_NEXUS_v12_0_0_Setup.exe",
-  "sha256": "40251060705cd1a9950b6d43976f15001764df6044849db0e56184a1ebcefbf3",
-  "size": 37613223,
-  "notes": "NEXUS 12.0: ORBIT 3.0 uygulamaya bagli carklar, mini fare tekerlegi gecisi, guvenli onizleme.",
-  "signature": "zX6krFGFjAIYaa3yZjZ/qQgUUiR1XWLtlnGUtlCgNDv+UU2CIkzbFsdcS2nY9yqf23Sw5XNt6bTXLb+3zZ6gCA=="
+  "version": "12.1.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v12.1.0/MetinTuslari_NEXUS_v12_1_0_Setup.exe",
+  "sha256": "30748e62e6142d6fd8d616b67bea393a7b3cf79389a1675141df75899368f40d",
+  "size": 37626877,
+  "notes": "NEXUS 12.1: Gorsel blok cogaltma, surukleyerek siralama, geri al/yinele ve akis ozeti.",
+  "signature": "OWot/zMacphuU3hJshsMroKEoemRaNHhtV631kB1GOio5ba58iao32hrokz/1AlbCgFPIUQqMa4Mh3jjjZoDDQ=="
 }
