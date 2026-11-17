@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "13.0.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.0.0/MetinTuslari_NEXUS_v13_0_0_Setup.exe",
-  "sha256": "03bf9499b5cbda74560ec3e02db603429fcebfd8fe184abebb05acde00547756",
-  "size": 37633626,
-  "notes": "NEXUS 13.0: Command Hub, global hizli menu, sabitlenen/son acilan sayfalar, odak modu, 4 gorunum paketi.",
-  "signature": "z9I6SV8Xg9eUIO9z4wTZ69XklntzxOyYffE4yL8LQYidjE3VrSG/mKcVIB0kq/VXacZYWnR1DOq97ySDeSeZBw=="
+  "version": "13.1.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.1.0/MetinTuslari_NEXUS_v13_1_0_Setup.exe",
+  "sha256": "9c96dce353dbc3f1ef1a4738fdab04f81c7a0ef88401326786d029ceed67ffac",
+  "size": 37635437,
+  "notes": "NEXUS 13.1: Dashboard 4.0 hazir yerlesimler, Stream Deck onizleme ve guvenli tus cogaltma.",
+  "signature": "vh1+VhZDHj5MEbmfFgdhp7tlzexaxDozKaHZsLHRq0eAK2Wc356ac0s9+cJsfCcXLsjdjIfa3n4HMTY5UOO6Dw=="
 }
