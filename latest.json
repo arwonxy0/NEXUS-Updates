@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "13.1.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.1.0/MetinTuslari_NEXUS_v13_1_0_Setup.exe",
-  "sha256": "9c96dce353dbc3f1ef1a4738fdab04f81c7a0ef88401326786d029ceed67ffac",
-  "size": 37635437,
-  "notes": "NEXUS 13.1: Dashboard 4.0 hazir yerlesimler, Stream Deck onizleme ve guvenli tus cogaltma.",
-  "signature": "vh1+VhZDHj5MEbmfFgdhp7tlzexaxDozKaHZsLHRq0eAK2Wc356ac0s9+cJsfCcXLsjdjIfa3n4HMTY5UOO6Dw=="
+  "version": "13.2.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.2.0/MetinTuslari_NEXUS_v13_2_0_Setup.exe",
+  "sha256": "782c622312b0d0fffa519f5072e33d409be30b0852231acf1cdc915d7fc62671",
+  "size": 37640215,
+  "notes": "NEXUS 13.2: ORBIT favori carklari ve temalar; Stream Deck panel olcegi ve guvenli kopyalama; yerel UI sure olcumu.",
+  "signature": "vo7gkMDGnAe3cEzAN9QNhGTEW1taCCXyNn9C/D9C800ncwX0ieJ2VTRZBZc3dkX2RkAZsXP5iI7LtVVXranUAg=="
 }
