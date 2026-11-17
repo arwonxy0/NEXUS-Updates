@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "12.2.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v12.2.0/MetinTuslari_NEXUS_v12_2_0_Setup.exe",
-  "sha256": "d257ff0c817a849c2dc3dc47e2af6f1c0b2b4a1d51d5aaa94c1e220d82673672",
-  "size": 37625952,
-  "notes": "NEXUS 12.2: Pano yerel gorsel galerisi ve mini klavye ekrana yaslama.",
-  "signature": "LTDDU8SjeWVIiZM4txHfPrp6Eo4alqewSZITFUsuTuRL97FY5g0l3HZTXcI28/Q6xDaBULb3ViW4CEc5etEvCQ=="
+  "version": "13.0.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.0.0/MetinTuslari_NEXUS_v13_0_0_Setup.exe",
+  "sha256": "03bf9499b5cbda74560ec3e02db603429fcebfd8fe184abebb05acde00547756",
+  "size": 37633626,
+  "notes": "NEXUS 13.0: Command Hub, global hizli menu, sabitlenen/son acilan sayfalar, odak modu, 4 gorunum paketi.",
+  "signature": "z9I6SV8Xg9eUIO9z4wTZ69XklntzxOyYffE4yL8LQYidjE3VrSG/mKcVIB0kq/VXacZYWnR1DOq97ySDeSeZBw=="
 }
