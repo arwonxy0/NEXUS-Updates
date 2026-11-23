@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "13.2.0",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.2.0/MetinTuslari_NEXUS_v13_2_0_Setup.exe",
-  "sha256": "782c622312b0d0fffa519f5072e33d409be30b0852231acf1cdc915d7fc62671",
-  "size": 37640215,
-  "notes": "NEXUS 13.2: ORBIT favori carklari ve temalar; Stream Deck panel olcegi ve guvenli kopyalama; yerel UI sure olcumu.",
-  "signature": "vo7gkMDGnAe3cEzAN9QNhGTEW1taCCXyNn9C/D9C800ncwX0ieJ2VTRZBZc3dkX2RkAZsXP5iI7LtVVXranUAg=="
+  "version": "13.3.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.3.0/MetinTuslari_NEXUS_v13_3_0_Setup.exe",
+  "sha256": "6859f5266dbb87251b2010230b8ac0a570bcaca6c0d961a2184b9791ec8fe30b",
+  "size": 37647597,
+  "notes": "NEXUS 13.3: Profil kurali ac/kapat, guvenli eslesme simulasyonu, oturum gecis gecmisi ve tum makrolara risk denetimi.",
+  "signature": "1qSGNxfsNGpMb02jTp+vGyA2vsvF5W64jj/NwTkkJFZxlm955bqZIydaUCwg3+M/yWDgD/w1IviQvgbRPLTyCg=="
 }
