@@ -1,9 +1,9 @@
 {
   "product": "metin-tuslari-nexus",
-  "version": "13.3.1",
-  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.3.1/MetinTuslari_NEXUS_v13_3_1_Setup.exe",
-  "sha256": "9b0ab65d51bdcff9c7153c1c38cd0935b411ebd9c813de904179cfd1a7c380f2",
-  "size": 37648979,
-  "notes": "NEXUS 13.3: Profil kurali ac/kapat, guvenli eslesme simulasyonu, oturum gecis gecmisi ve tum makrolara risk denetimi.",
-  "signature": "UT4PasU0AC+RQ5dpZpkF//TuxKwzZsvxpV8fth8F5pnYXdw9aEcR5hUu1DujCTNXSoIDN9ljDcQZPF7lmZMbDg=="
+  "version": "13.4.0",
+  "setup_url": "https://github.com/arwonxy0/NEXUS-Updates/releases/download/v13.4.0/MetinTuslari_NEXUS_v13_4_0_Setup.exe",
+  "sha256": "d192d3911a200db6e0185681562d2b68f633ad385da926d75762683c5e6de368",
+  "size": 37657117,
+  "notes": "NEXUS 13.4: UI REBORN; responsive sidebar, session page tabs, DPI scaling, horizontal quick navigation.",
+  "signature": "/3+nvbFA2e+zBVc/EYdDRLPqNFY4LphsE2OQMWlujx5A+CMT2diF7dMYD9eCPmtROmqm8u1OZRfQ98n9mJ2XDA=="
 }
